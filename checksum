@@ -1,0 +1,4 @@
+c3e5e0b9f25ad6596e9e84efd8d55ced61dc2ccb  -
+
+Execute this command on our machine in the goinfree folder to get the number of the current state of the VM.
+shasum < disk.vdi

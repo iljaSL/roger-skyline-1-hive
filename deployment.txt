@@ -1,4 +1,15 @@
-# roger-skyline-1
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    deployment.txt                                     :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ismelich <ismelich@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/12/12 15:35:43 by ismelich          #+#    #+#              #
+#    Updated: 2019/12/20 16:23:29 by ismelich         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 VM Part:
 
 -> Virtual Machine Installation
@@ -313,3 +324,5 @@ Step 10 (Self-signed SSl)
 
         A awesome tutorial which i followed step by step.
         https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04
+
+
