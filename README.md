@@ -175,7 +175,7 @@ Step 5: (Setting up the Firewall with UFW)
         enabled = true
         port = http,https
         filter = http-get-dos
-        logpath = /var/log/apache2/access.log (le fichier d'access sur server web)
+        logpath = /var/log/apache2/access.log
         maxretry = 300
         findtime = 300
         bantime = 600
