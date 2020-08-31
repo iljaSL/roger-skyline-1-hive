@@ -1,4 +1,4 @@
-# roger-skyline-1
+<h3>Roger-Skyline-1 is the second project in the network & system administration branch, in which I learned how to use different kind of services used on a server machine and how to secure the server properly.</h3>
 
 <h2>Deplyoment</h2>
 
